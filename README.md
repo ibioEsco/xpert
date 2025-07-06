@@ -106,8 +106,8 @@ xpert/
 
 ## Notas
 
-- El archivo `.env` **no debe subirse al repositorio**.
-- Puedes modificar los endpoints y modelos según tus necesidades.
+- El archivo `.env` **pedirlo al administrador*.
+
 
 ---
 
