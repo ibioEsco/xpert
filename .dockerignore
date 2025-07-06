@@ -1,0 +1,13 @@
+# Ignorar archivos y directorios innecesarios
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+
+# Ignorar directorios específicos
+/tests
+/docs
+/venv
