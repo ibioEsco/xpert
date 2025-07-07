@@ -27,7 +27,7 @@ API REST para gestión de usuarios y razas de gatos, desarrollada con **FastAPI*
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/xpert.git
+git clone https://github.com/ibioEsco/xpert/
 cd xpert
 ```
 
